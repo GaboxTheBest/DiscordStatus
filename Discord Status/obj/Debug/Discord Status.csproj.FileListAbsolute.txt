@@ -1,0 +1,16 @@
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\Discord Status.exe.config
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\Discord Status.exe
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\Discord Status.pdb
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\DiscordRPC.dll
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\DiscordRPC.pdb
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\DiscordRPC.xml
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord Status.csproj.AssemblyReference.cache
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord_Status.Form1.resources
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord_Status.Properties.Resources.resources
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord Status.csproj.GenerateResource.cache
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord Status.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord Status.exe
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord Status.pdb
+C:\Users\Gabriel el rey\Desktop\discord rpc form\Discord Status\Discord Status\obj\Debug\Discord_Status.Form2.resources
